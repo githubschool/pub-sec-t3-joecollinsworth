@@ -7,8 +7,9 @@
 1. Add the following code to your build pipeline, and it will then start publishing the artifact once the step has completed.
 
 1. Create a new branch called `Artifacts`
-1. Copy and paste the following code snippet into one of your working workflow files:
-```yaml
+1. Copy and paste the following code snippet into one of your working workflow files:  
+
+```yml
 # Upload an artifact to GitHub
 - name: Upload Artifact to Github Build Job
   uses: actions/upload-artifact@v2

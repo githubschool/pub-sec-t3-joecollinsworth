@@ -1,3 +1,4 @@
+** # Deprecated please do not follow links in this guide**
 # Migrating to GitHub Actions Facilitator Guide
 
 Welcome to the Migrating to GitHub Actions offering repo. In this repo, you will find the content used by GitHub during our official actions training and consulting.
@@ -6,7 +7,7 @@ If you have access to this repository, it is because your company has an agreeme
 
 ## Deploy the manual
 
-This guid is currently deployed to GitHub pages and [can be found here](https://githubtraining.github.io/actions-facilitator-guide/)
+This guid is currently deployed to GitHub pages and can be found here
 
 If you would like to contribute to the guide follow the steps in the **Preview changes on your machine** section.
 

@@ -21,7 +21,8 @@
     - [**Exercise 3 A - Dependency Locking**](02.7_exercise_3.md?id=exercise-3-a-dependency-locking)
   - [**How GitHub Uses Actions**](02.8_actions-hackathon-case-study.md)
   - [**Caching Within Actions**](02.9_caching.md)
-  - [**Section Wrap Up**](02.10_continuous-integration.md)
+  - [**Section Wrap Up**](02.10_secrets.md)
+  - [**Section Wrap Up**](02.11_continuous-integration.md)
 - [**Continuous Integration**](03.1_ci-overview.md)
   - [**CI using GitHub Actions**](03.2_ci-with-actions.md)
     <!-- - [How GitHub Uses Actions pt2](03.3_github-mobile-case-study.md) -->
@@ -29,8 +30,8 @@
   - [**Continuous Testing With Actions**](03.5_ct-action.md)
   - [**Security Scanning**](03.6_security-scan.md)
   - [**Using Artifacts In Actions**](03.7_using-artifacts.md)
-    [**Exercise 6 - Uploading and Downloading Artifacts**](03.7_using-artifacts?id=exercise-6-uploading-and-downloading-artifacts-in-actions)
-    [**Exercise 6 A - Uploading and Downloading Artifacts with Artifactory**](03.7_using-artifacts?id=exercise-6-a-uploading-and-downloading-artifacts-with-artifactory-in-actions)
+    - [**Exercise 6 - Uploading and Downloading Artifacts**](03.7_using-artifacts?id=exercise-6-uploading-and-downloading-artifacts-in-actions)
+    - [**Exercise 6 A - Uploading and Downloading Artifacts with Artifactory**](03.7_using-artifacts?id=exercise-6-a-uploading-and-downloading-artifacts-with-artifactory-in-actions)
   - [**Section Wrap Up**](03.8_continuous-delivery.md)
 - [**Continuous Delivery/Deployment**](04.1_cd-overview.md)
   <!-- - [**CD using GitHub Actions**](04.2_cd-with-actions.md) -->
